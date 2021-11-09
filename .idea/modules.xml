@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WampusWorld.iml" filepath="$PROJECT_DIR$/WampusWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java projects/aima-java-AIMA3e/aima-core/aima-core.iml" filepath="$PROJECT_DIR$/../../Java projects/aima-java-AIMA3e/aima-core/aima-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java projects/aima-java-AIMA3e/aima-gui/aima-gui.iml" filepath="$PROJECT_DIR$/../../Java projects/aima-java-AIMA3e/aima-gui/aima-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Java projects/aima-java-AIMA3e/aimax-osm/aimax-osm.iml" filepath="$PROJECT_DIR$/../../Java projects/aima-java-AIMA3e/aimax-osm/aimax-osm.iml" />
+    </modules>
+  </component>
+</project>

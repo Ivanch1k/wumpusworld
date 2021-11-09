@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="googlecode.aima.java.core" type="repository">
+    <properties maven-id="com.googlecode.aima-java:aima-core:3.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/aima-java/aima-core/3.0.0/aima-core-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
